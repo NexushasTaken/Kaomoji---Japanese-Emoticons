@@ -1,0 +1,64 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kaomoji___Japanese_Emoticons"
+        xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero2" x:Class="Kaomoji___Japanese_Emoticons.MainWindow"
+        mc:Ignorable="d"
+        Icon="/Images/android_mini.ico"
+        WindowStyle="None"
+        Background="White"
+        Height="240" Width="148"
+        ResizeMode="NoResize"
+        x:Name="_Window">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.ColumnSpan="2" MouseDown="DragWindow" x:Name="_Border">
+            <Grid HorizontalAlignment="Stretch">
+                <Label Content="Kaomoji" FontFamily="Comic Sans MS" x:Name="_Label"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" x:Name="_StackPanel">
+                    <Button Content="🗕" 
+                            Width="22" Height="20"
+                            Background="Transparent" 
+                            BorderThickness="0"
+                            x:Name="MinimizeBtn"
+                            Click="MinimizeBtn_Click"/>
+                    <Button Content="✕" 
+                            Width="22" Height="20"
+                            Background="Transparent" 
+                            BorderThickness="0"
+                            x:Name="ExitBtn"
+                            Click="ExitBtn_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Menu Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0,0,194" x:Name="_Menu">
+            <MenuItem Header="_Info" x:Name="_MenuItemInfo" Click="MenuItemInfo_Click" FontFamily="Comic Sans MS" Width="36">
+                <MenuItem Header="_About" x:Name="_MenuItemAbout" Click="MenuItemAbout_Click"/>
+                <MenuItem Header="_Help" x:Name="_MenuItemHelp" Click="MenuItemHelp_Click"/>
+            </MenuItem>
+            <!--<MenuItem Header="_Themes" x:Name="_MenuItemThemes" Click="MenuItemThemes_Click" FontFamily="Comic Sans MS" Width="53">
+                <MenuItem Header="Light" x:Name="_MenuItemLight"/>
+                <MenuItem Header="Dark" x:Name="_MenuItemDark"/>
+            </MenuItem>-->
+            <MenuItem Header="Settings" x:Name="_MenuItemSettings" Click="MenuItemSettings_Click" FontFamily="Comic Sans MS" Width="57"/>
+        </Menu>
+        <StackPanel Grid.Row="1" Width="133" Grid.ColumnSpan="2" Margin="8,18,7,28">
+            <ComboBox x:Name="_CategoriesCB" SelectionChanged="CategoriesCB_SelectionChanged" FontFamily="Comic Sans MS"/>
+            <ComboBox x:Name="_CategoriesTypeCB" SelectionChanged="CategoriesTypeCB_SelectionChanged" FontFamily="Comic Sans MS"/>
+            <ListBox x:Name="_EmojiLB" Height="120" SelectionChanged="EmojiLB_SelectionChanged"/>
+        </StackPanel>
+        <Button x:Name="_FavBtn" Content="Favorites" Margin="8,184,0,8" Grid.Row="1" FontFamily="Comic Sans MS" Click="FavBtn_Click"/>
+        <Button x:Name="AddToFavBtn" Content="+" Grid.Column="1" Grid.Row="1" Margin="0,184,54,8" Visibility="Visible" FontFamily="Comic Sans MS" Click="AddToFavBtn_Click"/>
+        <Button x:Name="RemoveToFavBtn" Content="-" Grid.Column="1" Grid.Row="1" Margin="0,184,54,8" Visibility="Hidden" FontFamily="Comic Sans MS" Click="RemoveToFavBtn_Click"/>
+        <CheckBox x:Name="_AlwaysOnTop" Grid.Row="1" Grid.Column="1" Height="15" Margin="51,189,7,8" Checked="AlwaysOnTop_Checked" Unchecked="AlwaysOnTop_Unchecked"/>
+    </Grid>
+</Window>
