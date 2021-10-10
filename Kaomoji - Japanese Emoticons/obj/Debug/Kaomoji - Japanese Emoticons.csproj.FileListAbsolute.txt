@@ -20,3 +20,26 @@ C:\Users\Nexus\source\repos\Kaomoji - Japanese Emoticons\Kaomoji - Japanese Emot
 C:\Users\Nexus\source\repos\Kaomoji - Japanese Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.csproj.CoreCompileInputs.cache
 C:\Users\Nexus\source\repos\Kaomoji - Japanese Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.exe
 C:\Users\Nexus\source\repos\Kaomoji - Japanese Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.pdb
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\bin\Debug\Kaomoji - Japanese Emoticons.exe.config
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\bin\Debug\Kaomoji - Japanese Emoticons.exe
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\bin\Debug\Kaomoji - Japanese Emoticons.pdb
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Interop.Accessibility.dll
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Interop.QuartzTypeLib.dll
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.csproj.ResolveComReference.cache
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Data\HtmlVersion.g.cs
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Data\SettingsWindow.g.cs
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\MainWindow.g.cs
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\App.g.cs
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons_MarkupCompile.cache
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons_MarkupCompile.lref
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Data\HtmlVersion.baml
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Data\SettingsWindow.baml
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\MainWindow.baml
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.g.resources
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji___Japanese_Emoticons.Properties.Resources.resources
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.csproj.GenerateResource.cache
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.csproj.CoreCompileInputs.cache
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.exe
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.pdb
+C:\Users\Nexus\source\repos\Kaomoji - Japanese-Emoticons\Kaomoji - Japanese Emoticons\obj\Debug\Kaomoji - Japanese Emoticons.csproj.AssemblyReference.cache
